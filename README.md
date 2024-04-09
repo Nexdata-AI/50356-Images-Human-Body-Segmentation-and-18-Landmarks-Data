@@ -24,6 +24,6 @@ the image data format is .jpg and .png, the annotation file format is .json
 ## Annotation content
 segmentation annotation of human body and appendages, 18 landmarks annotation of human body
 ## Accuracy
-the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; Accuracy requirement of
+the mask edge location errors in x and y directions are less than 3 pixels, which is considered as a qualified annotation; Accuracy requirement of segmentation annotation: the annotation part (each part of mask) is regarded as the unit, the accuracy rate shall be more than 97%; Accuracy requirement of landmark annotation: the annotation part (each landmark) is regarded as the unit, the accuracy rate shall be more than 97%;
 # Licensing Information
 Commercial License
