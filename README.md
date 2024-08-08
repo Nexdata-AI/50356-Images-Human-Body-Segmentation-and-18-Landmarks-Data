@@ -3,7 +3,7 @@
 ## Description
 50,356 Images - Human Body Segmentation and 18 Landmarks Data. The data diversity includes multiple scenes, ages, races, poses, and appendages. In terms of annotation, we adpoted segmentation annotations on human body and appendages.18 landmarks were also annotated for each human body. The data can be used for tasks such as human body segmentation and human behavior recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/958?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/958?source=Github
 
 
 # Specifications
